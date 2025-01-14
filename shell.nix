@@ -13,6 +13,7 @@ mkShell {
 	seaborn
 	pytorch
 	shap
+	imbalanced-learn
     ]))
   ];
 }
